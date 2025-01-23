@@ -1,6 +1,10 @@
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Duda-Rabelo&show_icons=true&theme=material-palenight&text_color=ffffff&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Rabelo&layout=compact&theme=material-palenight&text_color=ffffff" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Duda-Rabelo&show_icons=true&theme=material-palenight&text_color=ffffff&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Rabelo&layout=compact&theme=material-palenight&text_color=ffffff" />
+  </a>
 </div>
 
 <div style="display: inline-block">
