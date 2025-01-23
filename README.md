@@ -1,8 +1,8 @@
-<div style="display: inline-flex">
-  <a>
+<div >
+  <a style="display: inline-flex">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Duda-Rabelo&show_icons=true&theme=material-palenight&text_color=ffffff&count_private=true" />
   </a>
-  <a>
+  <a style="display: inline-flex">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duda-Rabelo&layout=compact&theme=material-palenight&text_color=ffffff" />
   </a>
 </div>
